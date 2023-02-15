@@ -146,7 +146,6 @@ namespace ThreadsApp
             writer.WriteLine(number.ToString());
             writer.Close();
         }
-
     }
     class MyObject
     {
